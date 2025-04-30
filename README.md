@@ -1,12 +1,21 @@
-🖋️ Typing Speed Tester
-A simple and fun web application to test your typing speed and accuracy! 🚀
-Built using HTML, CSS, and JavaScript.
+⌨️ Typing Speed Tester
+A sleek and interactive web application to test and improve your typing speed and accuracy. Built with HTML, CSS, and JavaScript, this tool provides real-time feedback, WPM calculation, and accuracy metrics to help you enhance your typing skills.​
+GitHub
 
-🔍 Features
-Random quotes for typing practice
 
-Real-time typing input
+🚀 Features
+Random Quotes: Practice typing with dynamically generated quotes for a varied experience.
 
-Words-per-minute (WPM) calculation
+Real-Time Feedback: Instantly see your typing accuracy and speed as you type.
 
-Accuracy check and performance result# Typing-speed-tester
+WPM Calculation: Accurately measures your Words Per Minute to track improvement.
+
+Accuracy Metrics: Provides detailed accuracy statistics to identify areas for improvement.
+
+
+🛠️ Technologies Used
+HTML5: Structure and content of the web application.
+
+CSS3: Styling and layout for an engaging user interface.
+
+JavaScript: Functionality and interactivity, including real-time calculations and DOM manipulation.​
